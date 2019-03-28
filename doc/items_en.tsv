@@ -1,0 +1,40 @@
+#	#Matsuyoshi D., Watanabe K. (submitted) People have modest, not good, insight into their face recognition ability: a comparison between developmental prosopagnosia questionnaires.
+#	#Shah P., Gaule A., Sowden S., Bird G., Cook R. 2015 The 20-item prosopagnosia index (PI20): a self-report instrument for identifying developmental prosopagnosia. R. Soc. Open Sci. 2(6), 150305. (doi:10.1098/rsos.140343).
+#	#Kennerknecht I., Ho N.Y., Wong V.C.N. 2008 Prevalence of hereditary prosopagnosia (HPA) in Hong Kong Chinese population. Am. J. Med. Genet. A 146A(22), 2863-2870. (doi:10.1002/ajmg.a.32552).
+Item	Text
+HK1	I can easily follow actors in a movie
+HK2	Some of my family have problems in recognizing faces
+HK3	People often tell me I do not recognize them
+HK4	I can decide immediately if a face is familiar
+HK5	It takes me a long time to recognize people
+HK6	I always recognize family members
+HK7	I can easily form a mental picture of a red rose
+HK8	I can easily form pictures of close friends in my mind
+HK9	I recognize famous people immediately
+HK10	I can decide immediately whether a face is male or female
+HK11	I get lost in new places
+HK12	I can see if a face is attractive
+HK13	I have problems reading emotions in a face
+HK14	I avoid meetings as I might overlook familiar people
+HK15	I do not recognize people the day after a brief meeting
+CONF	I am confident that I can recognize faces well compared to others
+PI1	My face recognition ability is worse than most people
+PI2	I have always had a bad memory for faces
+PI3	I find it notably easier to recognize people who have distinctive facial features
+PI4	I often mistake people I have met before for strangers
+PI5	When I was at school I struggled to recognize my classmates
+PI6	When people change their hairstyle, or wear hats, I have problems recognizing them
+PI7	I sometimes have to warn new people I meet that I am ‘bad with faces’
+PI8	I find it easy to picture individual faces in my mind
+PI9	I am better than most people at putting a ‘name to a face’
+PI10	Without hearing people's voices, I struggle to recognize them
+PI11	Anxiety about face recognition has led me to avoid certain social or professional situations
+PI12	I have to try harder than other people to memorize faces
+PI13	I am very confident in my ability to recognize myself in photographs
+PI14	I sometimes find movies hard to follow because of difficulties recognizing characters
+PI15	My friends and family think I have bad face recognition or bad face memory
+PI16	I feel like I frequently offend people by not recognizing who they are
+PI17	It is easy for me to recognize individuals in situations that require people to wear similar clothes (e.g. suits, uniforms and swimwear)
+PI18	At family gatherings, I sometimes confuse individual family members
+PI19	I find it easy to recognize celebrities in ‘before-they-were-famous’ photos, even if they have changed considerably
+PI20	It is hard to recognize familiar people when I meet them out of context (e.g. meeting a work colleague unexpectedly while shopping)
