@@ -1,5 +1,7 @@
 # matsuyoshi_selfreport_facerecognition
-Matsuyoshi D, Watanabe K (submitted) People have modest, not good, insight into their face recognition ability: a comparison between developmental prosopagnosia questionnaires.
+Matsuyoshi D, Watanabe K (submitted) People have modest, not good, insight into their face recognition ability: a comparison between self-report questionnaires.
+
+[![DOI](https://zenodo.org/badge/224313052.svg)](https://zenodo.org/badge/latestdoi/224313052)
 
 1. Survey (N = 855)
 	- survey.R
