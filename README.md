@@ -1,8 +1,8 @@
 # matsuyoshi_selfreport_facerecognition
 Self-reported face recognition ability (questionnaire) score and behavioral face recognition dataset described here:
-> **Daisuke Matsuyoshi, Katsumi Watanabe**
+> **Matsuyoshi, D., & Watanabe, K.** (2021). People have modest, not good, insight into their face recognition ability: a comparison between self-report questionnaires.
 > [People have modest, not good, insight into their face recognition ability: a comparison between self-report questionnaires.](https://link.springer.com/article/10.1007/s00426-020-01355-8)
-> *Psychological Research* (in press) doi: 10.1007/s00426-020-01355-8
+> *Psychological Research*, 85(4), 1713-1723. doi: 10.1007/s00426-020-01355-8
 
 [![DOI](https://zenodo.org/badge/224313052.svg)](https://zenodo.org/badge/latestdoi/224313052)
 
